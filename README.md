@@ -2,8 +2,6 @@
 
 Welcome to the **Virtual Assistant** project – your personal browser-based AI helper built using HTML, CSS, and JavaScript! ✨ This virtual assistant can respond to your queries, take voice commands, and deliver a truly interactive experience—all in your browser!
 
-#![Screenshot](./image.jpg)
-
 ---
 
 ### 🚀 Features
