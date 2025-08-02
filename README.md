@@ -1,10 +1,10 @@
-#### 🤖 Virtual Assistant (Browser-Based)
+# 🤖 Virtual Assistant (Browser-Based)
 
 Welcome to the **Virtual Assistant** project – your personal browser-based AI helper built using HTML, CSS, and JavaScript! ✨ This virtual assistant can respond to your queries, take voice commands, and deliver a truly interactive experience—all in your browser!
 
 ---
 
-### 🚀 Features
+## 🚀 Features
 
 - 🎙️ **Voice Interaction** – Speak directly to your assistant with voice commands!
 - 🌐 **Real-Time Info Access** – Can integrate APIs (weather, news, OpenAI, etc.).
@@ -13,10 +13,19 @@ Welcome to the **Virtual Assistant** project – your personal browser-based AI 
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **HTML5** – Structure and layout
 - **CSS3** – Styling with modern UI effects
 - **JavaScript** – Functionality and interactivity
 - **SpeechSynthesis API** – For text-to-speech capabilities
 - **Web Speech API** – For speech recognition
+
+---
+
+## 📁 File Structure
+virtual-assistant
+├── index.html       # Main HTML file
+├── style.css        # Styles for the assistant
+├── script.js        # JavaScript logic
+├── image.jpg        # Preview image
