@@ -26,6 +26,9 @@ Welcome to the **Virtual Assistant** project – your personal browser-based AI 
 ## 📁 File Structure
 virtual-assistant
 ├── index.html       # Main HTML file
+
 ├── style.css        # Styles for the assistant
+
 ├── script.js        # JavaScript logic
+
 ├── image.jpg        # Preview image
