@@ -1,7 +1,7 @@
 # 🤖 Virtual Assistant (Browser-Based)
 
 Welcome to the **Virtual Assistant** project – your personal browser-based AI helper built using HTML, CSS, and JavaScript! ✨ This virtual assistant can respond to your queries, take voice commands, and deliver a truly interactive experience—all in your browser!
-
+![image alt](https://github.com/mansi-katiyar/virtual-assistant-Assistify/blob/f535d60c81bccc5af673ea9149aea5c5ef3cfb84/output-screenshort.png)
 ---
 
 ## 🚀 Features
